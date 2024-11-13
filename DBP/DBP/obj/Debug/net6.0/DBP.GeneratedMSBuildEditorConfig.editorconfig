@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DBP
+build_property.RootNamespace = DBP
+build_property.ProjectDir = C:\Users\rasci\Storage\Freelancing\Duomenu-Baziu-Praktika\DBP\DBP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rasci\Storage\Freelancing\Duomenu-Baziu-Praktika\DBP\DBP
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/AddStudentToAGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRTdHVkZW50VG9BR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/CareerCenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJlZXJDZW50ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/CourseRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VSYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/CoursesForCompanies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VzRm9yQ29tcGFuaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_AT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfQVQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_DAPY.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfREFQWS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_JS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfSlMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_UIUX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfVUlVWC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_WEB.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfV0VCLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Course_WEB2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2VfV0VCMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/EditCompanies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0Q29tcGFuaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/EditCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0Q291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/EditLecturers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0TGVjdHVyZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/EditStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0U3R1ZGVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Lector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/ReviewRatings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXZpZXdSYXRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Home/StudentBoughtCourses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50Qm91Z2h0Q291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rasci/Storage/Freelancing/Duomenu-Baziu-Praktika/DBP/DBP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vwd0jg7re2

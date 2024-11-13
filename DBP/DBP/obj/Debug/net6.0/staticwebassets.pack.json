@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DBP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DBP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CompanyLogos\\CyberCareLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\CompanyLogos\\CyberCareLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CompanyLogos\\MicrosoftLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\CompanyLogos\\MicrosoftLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CompanyLogos\\TeltonikaLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\CompanyLogos\\TeltonikaLogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesForCompaniesLogos\\HTML5_Logo_512.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesForCompaniesLogos\\HTML5_Logo_512.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesForCompaniesLogos\\JavaScript-logo.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesForCompaniesLogos\\JavaScript-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesForCompaniesLogos\\Logo_C_sharp.svg.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesForCompaniesLogos\\Logo_C_sharp.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesForCompaniesLogos\\MySQL-Logo.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesForCompaniesLogos\\MySQL-Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesForCompaniesLogos\\Python_logo_51.svg.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesForCompaniesLogos\\Python_logo_51.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\AT.jpg",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\AT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\DA.jpg",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\DA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\JavaScript.jpg",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\JavaScript.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\UIUX.jpg",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\UIUX.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\WEB.jpg",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\WEB.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\CoursesLogos\\WEB2.png",
+      "PackagePath": "staticwebassets\\Images\\CoursesLogos\\WEB2.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\PromoSlides\\PromoSlide (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\PromoSlides\\PromoSlide (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\PromoSlides\\PromoSlide (2).jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\PromoSlides\\PromoSlide (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\PromoSlides\\PromoSlide (4).jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\PromoSlides\\PromoSlide (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\PM_logo.png",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\PM_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\PM_logo_resized.png",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\PM_logo_resized.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\home-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\home-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\home-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\home-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\HomePage\\new\\promoSlide.jpg",
+      "PackagePath": "staticwebassets\\Images\\HomePage\\new\\promoSlide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\SocialMediaLogos\\icons8-facebook-circled-240.png",
+      "PackagePath": "staticwebassets\\Images\\SocialMediaLogos\\icons8-facebook-circled-240.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\SocialMediaLogos\\icons8-github-240.png",
+      "PackagePath": "staticwebassets\\Images\\SocialMediaLogos\\icons8-github-240.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\SocialMediaLogos\\icons8-instagram-240.png",
+      "PackagePath": "staticwebassets\\Images\\SocialMediaLogos\\icons8-instagram-240.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\SocialMediaLogos\\icons8-linkedin-240.png",
+      "PackagePath": "staticwebassets\\Images\\SocialMediaLogos\\icons8-linkedin-240.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\Images\\SocialMediaLogos\\icons8-phonecall-96.png",
+      "PackagePath": "staticwebassets\\Images\\SocialMediaLogos\\icons8-phonecall-96.png"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\AboutUs\\aboutUs.css",
+      "PackagePath": "staticwebassets\\css\\AboutUs\\aboutUs.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\Admin\\admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\CareerCenter\\careerCenter.css",
+      "PackagePath": "staticwebassets\\css\\CareerCenter\\careerCenter.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\Contacts\\contacts.css",
+      "PackagePath": "staticwebassets\\css\\Contacts\\contacts.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\CourseRating\\courseRating.css",
+      "PackagePath": "staticwebassets\\css\\CourseRating\\courseRating.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\CoursesForCompanies\\coursesForCompanies.css",
+      "PackagePath": "staticwebassets\\css\\CoursesForCompanies\\coursesForCompanies.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\Courses\\courses.css",
+      "PackagePath": "staticwebassets\\css\\Courses\\courses.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\Footer\\footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\HomePage\\homePage.css",
+      "PackagePath": "staticwebassets\\css\\HomePage\\homePage.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\LogInSelection\\logInSelection - Copy.css",
+      "PackagePath": "staticwebassets\\css\\LogInSelection\\logInSelection - Copy.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\LogInSelection\\logInSelection.css",
+      "PackagePath": "staticwebassets\\css\\LogInSelection\\logInSelection.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\Navbar\\navabr.css",
+      "PackagePath": "staticwebassets\\css\\Navbar\\navabr.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\PromoSlider\\promoSlider.css",
+      "PackagePath": "staticwebassets\\css\\PromoSlider\\promoSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\StudentBoughtCourses\\studentBoughtCourses.css",
+      "PackagePath": "staticwebassets\\css\\StudentBoughtCourses\\studentBoughtCourses.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\StudentGroups\\studentGroups.css",
+      "PackagePath": "staticwebassets\\css\\StudentGroups\\studentGroups.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\js\\courseRaing.js",
+      "PackagePath": "staticwebassets\\js\\courseRaing.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\js\\promoSlider.js",
+      "PackagePath": "staticwebassets\\js\\promoSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rasci\\Storage\\Freelancing\\Duomenu-Baziu-Praktika\\DBP\\DBP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DBP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DBP.props",
+      "PackagePath": "build\\DBP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DBP.props",
+      "PackagePath": "buildMultiTargeting\\DBP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DBP.props",
+      "PackagePath": "buildTransitive\\DBP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

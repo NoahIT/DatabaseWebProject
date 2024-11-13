@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DBP</title>
+
+    <link rel="stylesheet" href="~/css/Navbar/navabr.css" />
+    <link rel="stylesheet" href="~/css/Footer/footer.css" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DBP.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm mb-3" style="position: fixed; top: 0; left: 0;">
+            <div class="container-fluid">
+
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/Images/HomePage/new/PM_logo_resized.png" alt="Logo" style="vertical-align: middle;">
+
+                    <span style="vertical-align: middle;">
+                        Programavimo<br>
+                        <span class="brand-second-line">Mokykla</span>
+                    </span>
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <div class="break-point"></div>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Courses">Kursai</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="CoursesForCompanies">Įmonėms</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="CareerCenter">Karjeros centras</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contacts">Kontaktai</a>
+                        </li>
+                        <div class="break-point"></div>
+                        @* musu svetaine tures tris naudotojus: -----------------------------------------------------------------------*@
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Admin">Administratorius</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Lector">Lektorius</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Student">Studentas</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="custom-footer">
+        <div class="footer-container">
+            &copy; 2024 - Duomenų bazių projektas: Programavimo mokykla
+        </div>
+        <div class="footer-ccontainer" id="team">
+            <h3> Komandos nariai: </h3>
+            <h4> Ivan Savochkin | Maksim Jakovčenko | Nojus Raščius | Kristupas Viščiūna</h4>
+        </div>
+
+        <div class="footer-links">
+            <div class="footer-ccontainer" id="github-repo">
+                <h3>Repositorija: Github | </h3>
+                <a href="https://github.com/maxjke/Duomenu-Baziu-Praktika">"Open-source" kodas</a>
+            </div>
+
+            <div class="footer-ccontainer" id="last-entrence">
+                <h3>Licenzija: MIT | </h3>
+                <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt">Licenzijos aprašymas</a>
+            </div>
+        </div>
+        
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

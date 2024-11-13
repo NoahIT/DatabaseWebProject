@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Administratorius";
+}
+
+<link rel="stylesheet" href="~/css/LogInSelection/logInSelection.css" />
+@* <link rel="stylesheet" href="~/css/Admin/admin.css" /> *@
+
+<div class="selection-container">
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="EditStudents">Tvarkyti studentus</a>
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="EditLecturers">Tvarkyti lektorius</a>
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="EditCompanies">Tvarkyti įmones</a>
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="EditCourses">Tvarkyti kursus</a>
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="ReviewRatings">Peržiūrėti kursų įvertinimus</a>
+    <a class="selection-link" asp-area="" asp-controller="Home" asp-action="AddStudentToAGroup">Priskirti studentą/us prie grupės</a>
+</div>

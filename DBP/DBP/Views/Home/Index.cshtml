@@ -1,0 +1,122 @@
+﻿@{
+    ViewData["Title"] = "Pradžia";
+}
+
+<link rel="stylesheet" href="~/css/PromoSlider/promoSlider.css" />
+<link rel="stylesheet" href="~/css/AboutUs/aboutUs.css" />
+<link rel="stylesheet" href="~/css/HomePage/homePage.css" />
+
+<div class="slider">
+    <div class="slides">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 1">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 2">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 3">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 4">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 5">
+        <img src="~/Images/HomePage/PromoSlides/PromoSlide (1).jpg" alt="Photo 6">
+    </div>
+    <button class="arrow prev">&#10094;</button>
+    <div class="add-info">Vieta reklamai</div>
+    <button class="arrow next">&#10095;</button>
+</div>
+
+<div class="selection-bg">
+    <div class="container">
+        <div class="cont-1">
+
+            <img class="home-image" src="~/Images/HomePage/new/home-1.jpg" />
+
+            <div class="cont-description">
+                <h1>
+                    Kursai
+                </h1>
+
+                <p>
+                    Mokymasis prasideda čia! Rinkitės iš plataus programavimo kursų pasirinkimų,
+                    kurie skirti tiek pradedantiesiems, tiek pažengusiems kūrėjams.
+                </p>
+            </div>
+            <a asp-area="" asp-controller="Home" asp-action="Courses">Peržiūrėti</a>
+        </div>
+
+        <div class="cont-3">
+            <img class="home-image" src="~/Images/HomePage/new/home-3.jpg" />
+
+            <div class="cont-description">
+                <h1>
+                    Įmonėms
+                </h1>
+
+                <p>
+                    Auginkite verslą kartu su mumis. Bendradarbiaukite su mūsų mokykla,
+                    plėsdami savo darbuotojų žinias ir ugdykite naujas kompetencijas mūsų pritaikytose mokymosi programose.
+                </p>
+            </div>
+            <a asp-area="" asp-controller="Home" asp-action="CoursesForCompanies">Peržiūrėti</a>
+        </div>
+
+        <div class="cont-2">
+            <img class="home-image" src="~/Images/HomePage/new/home-2.jpg" />
+
+            <div class="cont-description">
+                <h1>
+                    Individualūs kursai
+                </h1>
+
+                <p>
+                    Asmeniškai pritaikyta patirtis. Gaukite individualizuotą mokymosi planą,
+                    kuris atitinka Jūsų poreikius ir užtikrina maksimalų mokymosi efektyvumą.
+                </p>
+            </div>
+            <a asp-area="" asp-controller="Home" asp-action="Contacts">Susisiekite su mumis</a>
+        </div>
+    </div>
+</div>
+
+<div class="about-us-container">
+    <h1 class="about-us-h" id="AboutUs">
+        Apie Mus
+    </h1>
+
+    <div class="about-us-row">
+        <div class="mission-cont">
+            <h1>Misija ir vizija</h1>
+            <p>
+                Esame įsipareigoję skatinti mokymąsi ir tobulėjimą programavimo srityje.
+                Mūsų vizija – paversti kiekvieną mūsų mokyklos mokinį tapti aukštos kvalifikacijos programuotoju,
+                kuris gebėtų spręsti sudėtingas problemas ir prisidėtų prie technologijų pažangos. Mes siekiame,
+                kad mūsų mokymo programos būtų prieinamos visiems norintiems mokytis ir augti.
+            </p>
+        </div>
+        <div class="vission-cont">
+            <h1>Mokyklos istorija</h1>
+            <p>
+                Mūsų mokykla įkurta siekiant pildyti programavimo specialistų trūkumą rinkoje.
+                Mokykla siūlo platų kursų pasirinkimą ir individualizuotas mokymosi programas.
+            </p>
+        </div>
+    </div>
+
+    <div class="about-us-row">
+        <div class="team-cont">
+            <h1>Mūsų komanda</h1>
+            <p>
+                Mūsų komandą sudaro aukštos kvalifikacijos mokytojai,
+                kurie ne tik dėsto, bet ir nuolatos tobulėja, kad galėtų
+                pateikti aktualiausias žinias ir technologijas. Kiekvienas
+                mokytojas yra įsipareigojęs kurti įtraukiančią ir motyvuojančią mokymosi aplinką.
+            </p>
+        </div>
+        <div class="cooperation-cont">
+            <h1>Partnerystės ir bendradarbiavimai</h1>
+            <p>
+                Mūsų mokykla aktyviai bendradarbiauja su įvairiomis įmonėmis,
+                kurios ne tik remia mūsų veiklą, bet ir suteikia mūsų studentams praktikos galimybes.
+                Šios partnerystės leidžia mums siūlyti mokymus, atitinkančius aukščiausius rinkos
+                standartus ir suteikiančius studentams realaus pasaulio patirties.
+            </p>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/promoSlider.js"></script>
